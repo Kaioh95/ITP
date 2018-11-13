@@ -1,0 +1,11 @@
+linhas: 6
+colunas: 3
+ string
+ int
+
+            0         nome           10
+            1         kaka           10
+            2          kkk           10
+            3          kas            9
+            4        chico           10
+            5   xambleikon       123453

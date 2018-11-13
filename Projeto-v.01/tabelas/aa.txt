@@ -1,0 +1,9 @@
+linhas: 3
+colunas: 4
+ string
+ int
+ int
+
+      8682896         nome          mat         nota
+            1         kaka           12           10
+            2         asss           13            8

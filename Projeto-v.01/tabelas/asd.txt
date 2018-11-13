@@ -1,0 +1,8 @@
+linhas: 3
+colunas: 3
+ int
+ int
+
+            0          sad          das
+            1            1            2
+            2            5            6

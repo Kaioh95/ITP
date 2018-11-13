@@ -1,0 +1,8 @@
+linhas: 3
+colunas: 3
+ string
+ int
+
+            0         nome          mat
+            1          asd         1234
+            2          asd            0

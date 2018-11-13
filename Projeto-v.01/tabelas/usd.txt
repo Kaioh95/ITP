@@ -1,0 +1,9 @@
+linhas: 4
+colunas: 3
+ string
+ int
+
+            0         nome          mat
+            1        kakai         1234
+            2        akakk         1222
+            3         kaaa       144343

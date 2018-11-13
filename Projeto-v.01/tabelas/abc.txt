@@ -1,0 +1,9 @@
+linhas: 4
+colunas: 3
+ string
+ char
+
+            0         nome         sexo
+            1         asdk            m
+            2          asd            f
+            3          asd            m
