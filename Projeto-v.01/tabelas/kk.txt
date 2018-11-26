@@ -1,4 +1,4 @@
-linhas: 6
+linhas: 5
 colunas: 3
  string
  int
@@ -7,5 +7,3 @@ colunas: 3
             1         kaka           10
             2          kkk           10
             3          kas            9
-            4        chico           10
-            5   xambleikon       123453

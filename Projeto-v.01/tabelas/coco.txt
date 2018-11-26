@@ -1,0 +1,11 @@
+linhas: 3
+colunas: 6
+ int
+ int
+ int
+ int
+ double
+
+            0          ter          seg       coluna          123       boublw
+            1            1            2            1            1     0.000000
+            2            3            4            2            2    13.230000

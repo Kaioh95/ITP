@@ -1,9 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "CriaTabela.h"
-#include "CriaLinha.h"
-#include "ListaDados.h"
-#include "ApagaValor.h"
+#include "Headers/CriaTabela.h"
+#include "Headers/CriaLinha.h"
+#include "Headers/ListaDados.h"
+#include "Headers/ProcuraString.h"
+#include "Headers/ApagaValor.h"
+#include "Headers/ApagaTabela.h"
+#include "Headers/CriaColuna.h"
 
 int main(void){
 	/*	funcionalidades extras
@@ -21,8 +24,9 @@ int main(void){
 		printf("\t\t(5)Pesquisar um valor na tabela\n");
 		printf("\t\t(6)Apagar valor de uma tabela\n");
 		printf("\t\t(7)Apagar tabela\n");
+		printf("\t\t(8)Cria Coluna\n");
 		printf("\t\t(0)Fechar o programa\n");
-		printf("\t\t\t\tVersao 0.01\n");
+		printf("\t\t\t\tVersao 1.0\n");
 		printf("\t------------------------------------------------------\n");
 		printf("\t\tDigite uma opcao: ");
 		scanf("%d", &n);
@@ -47,14 +51,22 @@ int main(void){
 			printf("\t------------------------------------------------------\n");
 		}
 		
-	//	if(n==5)
-	//		pesquisa();
+		if(n==5){
+			ProcuraString();
+			printf("\t------------------------------------------------------\n");
+		}
 		if(n==6){
 			apagarValor();
 			printf("\t------------------------------------------------------\n");
 		}
-	//	if(n==7)
-	//		apagaTabela();
+		if(n==7){
+			ApagaTabela();
+			printf("\t------------------------------------------------------\n");
+		}
+		if(n==8){
+			CriaColuna();
+			printf("\t------------------------------------------------------\n");
+		}	
 	}
 
 	return 0;

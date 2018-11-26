@@ -1,9 +1,10 @@
 linhas: 4
-colunas: 3
- string
+colunas: 4
  int
+ string
+ char
 
-            0         nome          mat
-            1           as            2
-            2          sdd            5
-            3         aksd            7
+            0         nota         nome        letra
+            1            8          mmm            p
+            2            7          ggg            b
+            3           10        maria            A

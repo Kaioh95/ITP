@@ -4,7 +4,7 @@ colunas: 3
  int
 
             0         nome         nota
-            1         kkkd            9
-            2         kasd            9
-            3         akad            8
-            4        kasdo            8
+            1         asdk            7
+            2         kkkd            9
+            3         kasd            9
+            4          asd            5

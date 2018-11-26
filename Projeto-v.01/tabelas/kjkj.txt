@@ -1,0 +1,9 @@
+linhas: 3
+colunas: 4
+ string
+ int
+ float
+
+            0         nome          mat         nota
+            1         kasd          124     9.800000
+            2         fgff          234     9.800000

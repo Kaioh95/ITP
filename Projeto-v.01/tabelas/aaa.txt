@@ -1,0 +1,9 @@
+linhas: 4
+colunas: 3
+ string
+ int
+
+            0         nome         nota
+            1         judf           10
+            2          sdf            7
+            3      LAranja           34
